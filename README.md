@@ -1,8 +1,9 @@
-- 👋 Hi, I’m ChhaviShree
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m a second year btech student,Cse 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Chhavi Shree
+- 👀 I’m interested in web development
+- 🌱 I’m a thirdyear btech student,Cse 
+- 💞️ I’m looking to collaborate on projects on web developments
+- 📫 How to reach me linkedin- www.linkedin.com/in/chhavishree001
+--email id-ansikachhavi003@gmail.com
 
 <!---
 ChhaviShree/ChhaviShree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
