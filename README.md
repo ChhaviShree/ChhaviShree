@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chhavi Shree
-- 👀 I’m interested in web development,machine learning
-- 🌱 I’m a 3rd year btech student,Cse branch
-- 💞️ I’m looking to collaborate on projects on web developments
+- 👀 I’m interested in Full Stack Web development
+- 🌱 I’m a 4th year btech student,CSE branch
+- 💞️ I’m looking to collaborate on projects on Full Stack web development
 - 📫 How to reach me linkedin- www.linkedin.com/in/chhavishree001
 --email id-ansikachhavi003@gmail.com
 
